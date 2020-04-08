@@ -1,0 +1,17 @@
+[Desktop Entry]
+Name=Azan
+Comment=A widget to take over the world!
+
+Type=Service
+Icon=kalarm
+X-KDE-ServiceTypes=Plasma/Applet
+
+X-Plasma-API=declarativeappletscript
+X-Plasma-MainScript=ui/main.qml
+
+X-KDE-PluginInfo-Author=AhmedElshiekh
+X-KDE-PluginInfo-Email=ahmedel.sh50@gmail.com
+X-KDE-PluginInfo-Name=com.Azan.plasma
+X-KDE-PluginInfo-Version=1
+X-KDE-PluginInfo-Website=https://github.com/AhmedElshiekh/com.Azan.plasma
+X-KDE-PluginInfo-Category=System Information
